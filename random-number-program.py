@@ -12,4 +12,4 @@ while True:
         break
     else:
         print("Please your try again")
-print(Powered by Asylbekov Arstan)
+print("Asylbekov Arstan")
