@@ -11,5 +11,4 @@ while True:
         print("Thank you dear user!")
         break
     else:
-        print("Please your try again")
-print("Asylbekov")
+        print("Please your try again")
